@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PaqueteriaApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4d9b80d1afd6940c3156932d8adf6f3dafecc41")]
 [assembly: System.Reflection.AssemblyProductAttribute("PaqueteriaApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PaqueteriaApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
