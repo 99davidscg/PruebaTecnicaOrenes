@@ -1,0 +1,5 @@
+# Ignorar el directorio .vs y su contenido
+PaqueteriaApi/.vs/
+
+# Ignorar todos los archivos con extensión .vsidx en cualquier parte del repositorio
+*.vsidx
